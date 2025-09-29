@@ -1,0 +1,23 @@
+You are working with a SolidJS TypeScript starter template with Tailwind CSS for building reactive web applications.
+
+This template includes:
+- SolidJS with TypeScript support
+- Tailwind CSS for utility-first styling
+- Vite for fast development and building
+- Modern build tooling and hot reload
+- TypeScript configuration (tsconfig.json)
+
+Key features:
+- SolidJS reactive framework with fine-grained reactivity
+- TypeScript for type safety and better developer experience
+- Tailwind CSS for rapid UI development
+- Vite for lightning-fast development server
+- Component-based architecture with reactive state management
+- Excellent performance with minimal runtime overhead
+
+Development workflow:
+- Run `npm run dev` or `pnpm dev` to start the development server
+- Create components in the `src/` directory
+- Use SolidJS stores for state management
+- Leverage Tailwind classes for styling
+- Build with `npm run build` or `pnpm build` for production
